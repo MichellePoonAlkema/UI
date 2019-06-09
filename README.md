@@ -1,14 +1,14 @@
 <html>
 	<body>
     <nav class="w3-button w3-black">
-	    <a href="#hello" class="w3-button w3-bar-item">About Me</a>
+	    <a href="#michelle" class="w3-button w3-bar-item">About Me</a>
 	    <a href="#projects" class="w3-button w3-bar-item">Projects</a>
 	    <a href="#contact" class="w3-button w3-bar-item">Contact</a>
 	    <a href="/cv.pdf" class="w3-button w3-bar-item">Resume</a>
     </nav>
 	  <h2>Michelle Poon-Alkema</h2>
 	  <p>Scarborough,Canada.</p>
-	  <h2>Hello</h2>
+	  <h2>About Me</h2>
 	  <p>If the coding works out, I’ll write a paragraph about myself here</p>
 		<section class="w3-container w3-center" style="max-width:600px">
 				<h2 class="w3-wide">Designer in Progress</h2>
