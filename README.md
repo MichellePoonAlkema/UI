@@ -16,6 +16,11 @@
 		<a href=“#”>mlspoon@uwaterloo.ca</a>
 		<a href=“#”>Linkdin</a>
 		<a href=“#”>Resume</a>
+			<section class="w3-container w3-center" style="max-width:600px">
+				<h2 class="w3-wide">Designer in Progress</h2>
+				<p class="w3-opacity"><i>My Works of Art</i></p>
+				<p class="w3-justify">This is where I will write about DesignThinking101 and my process,</p>
+		</section>
 	</body>
 </html>
 
