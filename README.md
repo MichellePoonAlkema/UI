@@ -1,10 +1,10 @@
 <html>
 	<body>
     <nav class="w3-button w3-black">
-      <a href="#home" class="w3-button w3-bar-item">Home</a>
+      <a href="#Home" class="w3-button w3-bar-item">Home</a>
+      <a href="#About Me" class="w3-button w3-bar-item">About Me</a>
       <a href="#projects" class="w3-button w3-bar-item">Projects</a>
-      <a href="#resume" class="w3-button w3-bar-item">Resume</a>
-      <a href="#contact" class="w3-button w3-bar-item">Contact</a>
+      <a href="#Contact" class="w3-button w3-bar-item">Contact</a>
     </nav>
 	  <h2>Michelle Poon-Alkema</h2>
 	  <p>Scarborough,Canada.</p>
@@ -25,4 +25,3 @@
 		</section>
 	</body>
 </html>
-
