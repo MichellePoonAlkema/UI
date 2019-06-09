@@ -2,7 +2,7 @@
 	<body>
     <nav class="w3-button w3-black">
       <a href="#hello" class="w3-button w3-bar-item">About Me</a>
-      <a href="#resume" class="w3-button w3-bar-item">resume</a>
+      <a href="/cv.pdf" class="w3-button w3-bar-item">resume</a>
       <a href="#projects" class="w3-button w3-bar-item">Projects</a>
       <a href="#contact" class="w3-button w3-bar-item">Contact</a>
     </nav>
