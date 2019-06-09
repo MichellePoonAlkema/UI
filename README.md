@@ -14,7 +14,7 @@
 		<a href=“#”>LCBOnext</a> <a href=“#”>CAL-E</a> <a href=“#”>LEAF</a> <a href=“#”>MINDMAX</a>
 	  <h2>Contact</h2>
 		<p class="w3-medium">
-		<div> Contact Me <a href="michellepoon56@gmail.com"target="_blank">E-mail</a></div>
+		Contact Me <a href="michellepoon56@gmail.com"target="_blank"><div>E-mail</a></div>
 		<div><a href=“#”>Linkdin</a><</div>
 		<div><a href=“#”>Resume</a></div>
 	<section class="w3-container w3-center" style="max-width:600px">
