@@ -22,5 +22,13 @@
 				<p class="w3-justify">This is where I will write about DesignThinking101 and my process,</p>
 		</section>
 	</body>
+<footer class="w3-container w3-padding-64 w3-center w3-black w3-xlarge">
+  <a href="#"><i class="fa fa-facebook-official"></i></a>
+  <a href="#"><i class="fa fa-github"></i></a>
+  <a href="#"><i class="fa fa-linkedin"></i></a>
+  <p class="w3-medium">
+    For more information <a href="michellepoon56@gmail.com" target="_blank">E-mail Michelle</a>
+  </p>
+</footer>
 </html>
 
