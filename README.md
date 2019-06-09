@@ -1,10 +1,10 @@
 <html>
 	<body>
     <nav class="w3-button w3-black">
-      <a href="#hello" class="w3-button w3-bar-item">About Me</a>
-      <a href="/cv.pdf" class="w3-button w3-bar-item">resume</a>
-      <a href="#projects" class="w3-button w3-bar-item">Projects</a>
-      <a href="#contact" class="w3-button w3-bar-item">Contact</a>
+	    <a href="#hello" class="w3-button w3-bar-item">About Me</a>
+	    <a href="#projects" class="w3-button w3-bar-item">Projects</a>
+	    <a href="#contact" class="w3-button w3-bar-item">Contact</a>
+	    <a href="/cv.pdf" class="w3-button w3-bar-item">Resume</a>
     </nav>
 	  <h2>Michelle Poon-Alkema</h2>
 	  <p>Scarborough,Canada.</p>
