@@ -10,7 +10,7 @@
 	  <p>Scarborough,Canada.</p>
 	  <h2>About Me</h2>
 	  <p>If the coding works out, I’ll write a paragraph about myself here</p>
-		<div><a href=“#”>Resume</a></div>
+		<div><a href=“cv.pdf”>Resume</a></div>
 	  <h2>Projects</h2>
 		<a href=“#”>LCBOnext</a> <a href=“#”>CAL-E</a> <a href=“#”>LEAF</a> <a href=“#”>MINDMAX</a>
 	  <h2>Contact</h2>
