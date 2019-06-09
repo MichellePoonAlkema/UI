@@ -11,10 +11,7 @@
 	  <h2>About Me</h2>
 	  <p>If the coding works out, I’ll write a paragraph about myself here</p>
 	  <h2>Projects</h2>
-		<a href=“#”>LCBOnext</a>
-		<a href=“#”>CAL-E</a>
-		<a href=“#”>LEAF</a>
-		<a href=“#”>MINDMAX</a>
+		<a href=“#”>LCBOnext</a> <a href=“#”>CAL-E</a> <a href=“#”>LEAF</a> <a href=“#”>MINDMAX</a>
 	  <h2>Contact</h2>
 		<a href=“#”>mlspoon@uwaterloo.ca</a>
 		<a href=“#”>Linkdin</a>
