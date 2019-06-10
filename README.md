@@ -1,5 +1,13 @@
-<html>
-	<body>
+<!DOCTYPE html>
+<html lang="en">
+header {
+  background-color: #666;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+}
+<body>
     <nav class="w3-button w3-black">
 	    <a href="#michelle" class="w3-button w3-bar-item">About Me</a>
 	    <a href="#projects" class="w3-button w3-bar-item">Projects</a>
