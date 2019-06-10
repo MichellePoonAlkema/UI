@@ -99,8 +99,7 @@ body, html {
     </div>
   <
   /div>
-  <p class="w3-large w3-center w3-padding-16">My Resume:</p>
-  <a href="https://github.com/MichellePoonAlkema/myportfolio/blob/master/cv.pdf" class="w3-button w3-bar-item">Resume</a>
+  <a href="https://github.com/MichellePoonAlkema/myportfolio/blob/master/cv.pdf" class="w3-button w3-bar-item">My Resume</a>
 
    
 <!-- Second Parallax Image with Portfolio Text -->
