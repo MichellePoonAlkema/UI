@@ -96,9 +96,7 @@ body, html {
     <!-- Hide this text on small devices -->
     <div class="w3-col m6 w3-hide-small w3-padding-large">
       <p>Welcome to my website. This will be more things about my research/design process and the skill I almost have.</p>
-    </div>
-  <
-  /div>
+  </div>
   <a href="https://github.com/MichellePoonAlkema/myportfolio/blob/master/cv.pdf" class="w3-button w3-bar-item">My Resume</a>
 
    
