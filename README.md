@@ -148,7 +148,7 @@ body, html {
 <!-- Container (Contact Section) -->
 <div class="w3-content w3-container w3-padding-64" id="contact">
   <h3 class="w3-center">Contact Me</h3>
-  <p class="w3-center"<em>I'd love to hear your feedback</em></p>   
+  <p>class="w3-center"<em>I'd love to hear your feedback</em></p>   
         <i class="fa fa-map-marker fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i> Toronto, ON<br>
         <i class="fa fa-phone fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i> Phone: (418)-871-5312<br>
         <i class="fa fa-envelope fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i> Email: mlspoon@uwaterloo.ca<br>
