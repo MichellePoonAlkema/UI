@@ -89,7 +89,7 @@ body, html {
   <div class="w3-row">
     <div class="w3-col m6 w3-center w3-padding-large">
       <p><b><i class="fa fa-user w3-margin-right"></i>Michelle Poon-Alkema</b></p><br>
-      <img> https://github.com/MichellePoonAlkema/myportfolio/blob/master/michelle1.jpg" </img> class="w3-round w3-image w3-opacity w3-hover-opacity-off" alt="Photo of Me" width="500" height="333">
+      <img src= "michelle1.jpg"class="w3-round w3-image w3-opacity w3-hover-opacity-off" alt="Photo of Me" width="500" height="333">
     </div>
 
     <!-- Hide this text on small devices -->
