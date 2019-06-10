@@ -90,16 +90,14 @@ body, html {
   <div class="w3-row">
     <div class="w3-col m6 w3-center w3-padding-large">
       <p><b><i class="fa fa-user w3-margin-right"></i>Michelle Poon-Alkema</b></p><br>
-      <img src="" class="w3-round w3-image w3-opacity w3-hover-opacity-off" alt="Photo of Me" width="500" height="333">
+      <img src="michelle1.jpg" class="w3-round w3-image w3-opacity w3-hover-opacity-off" alt="Photo of Me" width="500" height="333">
     </div>
 
     <!-- Hide this text on small devices -->
     <div class="w3-col m6 w3-hide-small w3-padding-large">
       <p>Welcome to my website. This will be more things about my research/design process and the skill I almost have.</p>
-  </div>
   <a href="https://github.com/MichellePoonAlkema/myportfolio/blob/master/cv.pdf" class="w3-button w3-bar-item">My Resume</a>
-
-   
+  
 <!-- Second Parallax Image with Portfolio Text -->
 <div class="bgimg-2 w3-display-container w3-opacity-min">
   <div class="w3-display-middle">
@@ -234,6 +232,5 @@ function toggleFunction() {
     }
 }
 </script>
-
 </body>
 </html>
