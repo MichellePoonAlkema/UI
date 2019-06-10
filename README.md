@@ -100,7 +100,7 @@ body, html {
   <
   /div>
   <p class="w3-large w3-center w3-padding-16">My Resume:</p>
-  <p class="w3-large w3-center w3-padding-16"; <a href="https://github.com/MichellePoonAlkema/myportfolio/blob/master/cv.pdf" class="w3-button w3-bar-item">Resume</a>place a little link here</p>
+  <a href="https://github.com/MichellePoonAlkema/myportfolio/blob/master/cv.pdf" class="w3-button w3-bar-item">Resume</a>
 
    
 <!-- Second Parallax Image with Portfolio Text -->
