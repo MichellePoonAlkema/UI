@@ -21,20 +21,20 @@ body, html {
 
 /* First section */
 .bgimg-1 {
-  background:black;
-  min-height: 400px;
+  background-image: url('/michelle1.jpg');
+  min-height: 100%;
 }
 
 /* Second section (Portfolio) */
 .bgimg-2 {
-  background:black;
+  background-image: url("/michelle1.jpg);
   min-height: 400px;
 }
 
 /* Third section (Contact) */
 .bgimg-3
 {
-  background:black;
+  background-image: url("/michelle1jpg");
   min-height: 400px;
 }
 
@@ -85,9 +85,8 @@ body, html {
   <div class="w3-row">
     <div class="w3-col m6 w3-center w3-padding-large">
       <p><b><i class="fa fa-user w3-margin-right"></i>Michelle Poon-Alkema</b></p><br>
-      <img class="w3-round w3-image w3-opacity w3-hover-opacity-off" alt="Photo of Me" width="400" height="233">
+      <img scr="/michelle1.jpg" class="w3-round w3-image w3-opacity w3-hover-opacity-off" alt="Photo of Me" width="500" height="333">
     </div>
-    <!-- Hide this text on small devices -->
     <div class="w3-col m6 w3-hide-small w3-padding-large">
       <p>Welcome to my website. This will be more things about my research/design process and the skill I almost have.</p>
   <a href="https://github.com/MichellePoonAlkema/myportfolio/blob/master/cv.pdf" class="w3-button w3-bar-item">My Resume</a>
