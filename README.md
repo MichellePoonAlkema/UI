@@ -85,7 +85,8 @@ body, html {
   <div class="w3-row">
     <div class="w3-col m6 w3-center w3-padding-large">
       <p><b><i class="fa fa-user w3-margin-right"></i>Michelle Poon-Alkema</b></p><br>
-      <img scr="/michelle1.jpg" class="w3-round w3-image w3-opacity w3-hover-opacity-off" alt="Photo of Me" width="500" height="333">
+      <!--<img scr="/michelle1.jpg" class="w3-round w3-image w3-opacity w3-hover-opacity-off" alt="Photo of Me" width="500" height="333">-->
+    </div>
     </div>
     <div class="w3-col m6 w3-hide-small w3-padding-large">
       <p>Welcome to my website. This will be more things about my research/design process and the skill I almost have.</p>
