@@ -30,7 +30,7 @@ body, html {
 
 /* Second image (Portfolio) */
 .bgimg-2 {
-  background-image: url("/https://github.com/MichellePoonAlkema/myportfolio/blob/master/michelle1.jpg?raw=true");
+  background-image: url("/github.com/MichellePoonAlkema/myportfolio/blob/master/michelle1.jpg");
   min-height: 400px;
 }
 
