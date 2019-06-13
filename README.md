@@ -21,7 +21,7 @@ body, html {
 
 /* First image */
 .bgimg-1 {
-  "background-colour:#777;");
+  style=background-colour: "black";);
   min-height: 100%;
 }
 
