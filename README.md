@@ -24,7 +24,7 @@ body, html {
 
 /* First image (Logo. Full height) */
 .bgimg-1 {
-  background-image src = "michelle1.jpg";
+  background-image: url("michelle1.jpg");
   min-height: 100%;
 }
 
