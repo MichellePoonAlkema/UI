@@ -24,7 +24,7 @@ body, html {
 
 /* First image (Logo. Full height) */
 .bgimg-1 {
-  background-image: url("michelle1.jpg");
+  background-image: url("https://github.com/MichellePoonAlkema/myportfolio/blob/master/michelle1.jpg?raw=true");
   min-height: 100%;
 }
 
