@@ -23,22 +23,6 @@ body, html {
 .bgimg-1 {
   style=background-colour: "black";);
   min-height: 100%;
-}
-
-/* Second image (Portfolio) */
-.bgimg-2 {
-  background-image: url("/github.com/MichellePoonAlkema/myportfolio/blob/master/michelle1.jpg");
-  min-height: 400px;
-}
-
-/* Third image (Contact) */
-.bgimg-3 {
-  background-image: url("/michelle1.jpg");
-  min-height: 400px;
-}
-
-.w3-wide {letter-spacing: 10px;}
-.w3-hover-opacity {cursor: pointer;}
 
 /* Turn off parallax scrolling for tablets and phones */
 @media only screen and (max-device-width: 1600px) {
@@ -90,9 +74,7 @@ body, html {
   <p> Previously I worked as a UX Researcher in Sydney, Australia at The University of Sydney: Brain and Mind Centre. I've also worked as a Research Assistant at HCI Games Group for over 3 years. The members of UW's Games Institute are family to me and I still volunteer for projects when I have spare time.</p>
   <div class="w3-row">
     <div class="w3-col m6 w3-center w3-padding-large">
-      <p><b><i class="fa fa-user w3-margin-right"></i>Michelle Alkema</b></p><br>
-      ![](michelle1.jpg)
-      "class="w3-round w3-image w3-opacity w3-hover-opacity-off" alt="Photo of Me" width="500" height="333">
+      <p><b><i class="fa fa-user w3-margin-right"></i>Michelle Alkema</b></p>
     </div>
 
     <!-- Hide this text on small devices -->
