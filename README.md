@@ -71,7 +71,7 @@ body, html {
   <p><em>"class="w3-center"><em>UX Researcher</em></p>
   <p>Hello, I'm Michelle and I am a University of Waterloo graduate student with a love for design and a passion for understanding people.</p>
     <p> Currently I am completing a 4-month placement at LCBOnext in Kitchener as a UX/UI designer. After work, I have a part-time position as a Digital Developer for Renison University College. During my free time, I enjoy baking, drawing, reading & helping others with their side projects.</p>
-  <p> Previously I worked as a UX Researcher in Sydney, Australia at The University of Sydney: Brain and Mind Centre. I've also worked as a Research Assistant at HCI Games Group for over 3 years. The members of UW's Games Institute are family to me and I still volunteer for projects when I have spare time.</p>
+  <p> Previously I worked as a UX Researcher in Sydney, Australia at The University of Sydney: Brain and Mind Centre. I've also worked as a Research Assistant at HCI Games Group for over 2 years. The members of UW's Games Institute are family to me and I still volunteer for projects when I have spare time.</p>
   <div class="w3-row">
     <div class="w3-col m6 w3-center w3-padding-large">
       <p><b><i class="fa fa-user w3-margin-right"></i>Michelle Alkema</b></p>
